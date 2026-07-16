@@ -1,625 +1,1019 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="Combined XMLTV Generator">
-  <channel id="DE: Cinedome Mittelerde HD+">
-    <display-name lang="de">Cinedome Mittelerde</display-name>
+<tv>
+  <channel id="Der Hobbit: Smaugs Einöde">
+    <display-name lang="de">Der Hobbit: Smaugs Einöde</display-name>
   </channel>
-  <channel id="DE: Cinedome 007 HD+">
-    <display-name lang="de">Cinedome 007</display-name>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Hobbit: Smaugs Einöde">
+    <title lang="de">Der Hobbit: Smaugs Einöde</title>
+    <desc lang="de">Bilbo und die Zwerge nähern sich dem Einsamen Berg, wo der mächtige Drache Smaug auf sie wartet.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Der Hobbit: Die Schlacht der fünf Heere">
+    <display-name lang="de">Der Hobbit: Die Schlacht der fünf Heere</display-name>
   </channel>
-  <channel id="DE: Cinedome Harry Potter HD+">
-    <display-name lang="de">Cinedome Harry Potter</display-name>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Hobbit: Die Schlacht der fünf Heere">
+    <title lang="de">Der Hobbit: Die Schlacht der fünf Heere</title>
+    <desc lang="de">Am Einsamen Berg treffen fünf Heere aufeinander, während eine noch größere Bedrohung über Mittelerde hereinbricht.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Der Herr der Ringe: Die Gefährten">
+    <display-name lang="de">Der Herr der Ringe: Die Gefährten</display-name>
   </channel>
-  <channel id="DE: SERIEAX Two and a Half Men HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Herr der Ringe: Die Gefährten">
+    <title lang="de">Der Herr der Ringe: Die Gefährten</title>
+    <desc lang="de">Frodo erhält den Einen Ring und macht sich mit seinen Gefährten auf den gefährlichen Weg durch Mittelerde.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Der Herr der Ringe: Die zwei Türme">
+    <display-name lang="de">Der Herr der Ringe: Die zwei Türme</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Herr der Ringe: Die zwei Türme">
+    <title lang="de">Der Herr der Ringe: Die zwei Türme</title>
+    <desc lang="de">Die Gemeinschaft ist getrennt. Während der Krieg näher rückt, setzen Frodo und Sam ihren Weg nach Mordor fort.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Der Herr der Ringe: Die Rückkehr des Königs">
+    <display-name lang="de">Der Herr der Ringe: Die Rückkehr des Königs</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Herr der Ringe: Die Rückkehr des Königs">
+    <title lang="de">Der Herr der Ringe: Die Rückkehr des Königs</title>
+    <desc lang="de">Die freien Völker Mittelerdes treten zur letzten Schlacht an, während Frodo und Sam den Schicksalsberg erreichen müssen.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Der Hobbit: Eine unerwartete Reise">
+    <display-name lang="de">Der Hobbit: Eine unerwartete Reise</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Hobbit: Eine unerwartete Reise">
+    <title lang="de">Der Hobbit: Eine unerwartete Reise</title>
+    <desc lang="de">Bilbo begleitet Gandalf und dreizehn Zwerge auf einer Reise, um den Einsamen Berg und ihre verlorene Heimat zurückzuerobern.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="James Bond 007 – Der Spion, der mich liebte">
+    <display-name lang="de">James Bond 007 – Der Spion, der mich liebte</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Der Spion, der mich liebte">
+    <title lang="de">James Bond 007 – Der Spion, der mich liebte</title>
+    <desc lang="de">James Bond arbeitet mit einer sowjetischen Agentin zusammen, um einen gefährlichen Plan zur Auslösung eines Weltkriegs zu stoppen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Moonraker">
+    <display-name lang="de">James Bond 007 – Moonraker</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Moonraker">
+    <title lang="de">James Bond 007 – Moonraker</title>
+    <desc lang="de">Bond untersucht das Verschwinden eines Space Shuttles und deckt eine globale Verschwörung auf.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – In tödlicher Mission">
+    <display-name lang="de">James Bond 007 – In tödlicher Mission</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – In tödlicher Mission">
+    <title lang="de">James Bond 007 – In tödlicher Mission</title>
+    <desc lang="de">Bond jagt ein sensibles Ortungssystem, bevor es in falsche Hände gerät.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Octopussy">
+    <display-name lang="de">James Bond 007 – Octopussy</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Octopussy">
+    <title lang="de">James Bond 007 – Octopussy</title>
+    <desc lang="de">Eine rätselhafte Spur führt Bond in ein internationales Schmugglernetz.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Im Angesicht des Todes">
+    <display-name lang="de">James Bond 007 – Im Angesicht des Todes</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Im Angesicht des Todes">
+    <title lang="de">James Bond 007 – Im Angesicht des Todes</title>
+    <desc lang="de">Bond stellt sich einem skrupellosen Industriellen mit gefährlichen Plänen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Der Hauch des Todes">
+    <display-name lang="de">James Bond 007 – Der Hauch des Todes</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Der Hauch des Todes">
+    <title lang="de">James Bond 007 – Der Hauch des Todes</title>
+    <desc lang="de">Timothy Dalton übernimmt erstmals die Rolle des 007 und gerät zwischen Spionage und Verrat.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Lizenz zum Töten">
+    <display-name lang="de">James Bond 007 – Lizenz zum Töten</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Lizenz zum Töten">
+    <title lang="de">James Bond 007 – Lizenz zum Töten</title>
+    <desc lang="de">Bond nimmt einen Drogenbaron auf eigene Faust ins Visier.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – GoldenEye">
+    <display-name lang="de">James Bond 007 – GoldenEye</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – GoldenEye">
+    <title lang="de">James Bond 007 – GoldenEye</title>
+    <desc lang="de">Ein gestohlenes Satellitenwaffensystem bedroht die Welt.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Der Morgen stirbt nie">
+    <display-name lang="de">James Bond 007 – Der Morgen stirbt nie</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Der Morgen stirbt nie">
+    <title lang="de">James Bond 007 – Der Morgen stirbt nie</title>
+    <desc lang="de">Ein Medienmogul versucht, einen globalen Konflikt auszulösen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Die Welt ist nicht genug">
+    <display-name lang="de">James Bond 007 – Die Welt ist nicht genug</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Die Welt ist nicht genug">
+    <title lang="de">James Bond 007 – Die Welt ist nicht genug</title>
+    <desc lang="de">Bond schützt eine Ölerbin vor einem raffinierten Gegner.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Stirb an einem anderen Tag">
+    <display-name lang="de">James Bond 007 – Stirb an einem anderen Tag</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Stirb an einem anderen Tag">
+    <title lang="de">James Bond 007 – Stirb an einem anderen Tag</title>
+    <desc lang="de">Bond kehrt nach Gefangenschaft zurück und deckt eine neue Bedrohung auf.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Casino Royale">
+    <display-name lang="de">James Bond 007 – Casino Royale</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Casino Royale">
+    <title lang="de">James Bond 007 – Casino Royale</title>
+    <desc lang="de">Der neue 007 muss einen Terrorfinanzier beim Poker schlagen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Ein Quantum Trost">
+    <display-name lang="de">James Bond 007 – Ein Quantum Trost</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Ein Quantum Trost">
+    <title lang="de">James Bond 007 – Ein Quantum Trost</title>
+    <desc lang="de">Bond verfolgt die Hintermänner eines internationalen Komplotts.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Skyfall">
+    <display-name lang="de">James Bond 007 – Skyfall</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Skyfall">
+    <title lang="de">James Bond 007 – Skyfall</title>
+    <desc lang="de">Ein Angriff auf den MI6 zwingt Bond zu einer persönlichen Mission.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Spectre">
+    <display-name lang="de">James Bond 007 – Spectre</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Spectre">
+    <title lang="de">James Bond 007 – Spectre</title>
+    <desc lang="de">Bond folgt einer geheimnisvollen Spur zu einer mächtigen Organisation.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond 007 – Keine Zeit zu sterben">
+    <display-name lang="de">James Bond 007 – Keine Zeit zu sterben</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond 007 – Keine Zeit zu sterben">
+    <title lang="de">James Bond 007 – Keine Zeit zu sterben</title>
+    <desc lang="de">Bond kehrt aus dem Ruhestand zurück und stellt sich einer neuen Gefahr.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Harry Potter und die Heiligtümer des Todes – Teil 1">
+    <display-name lang="de">Harry Potter und die Heiligtümer des Todes – Teil 1</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Harry Potter und die Heiligtümer des Todes – Teil 1">
+    <title lang="de">Harry Potter und die Heiligtümer des Todes – Teil 1</title>
+    <desc lang="de">Harry, Ron und Hermine verlassen Hogwarts, um Voldemorts Horkruxe zu finden und zu zerstören. Ihre gefährliche Reise stellt die Freundschaft auf die Probe.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Harry Potter und die Heiligtümer des Todes – Teil 2">
+    <display-name lang="de">Harry Potter und die Heiligtümer des Todes – Teil 2</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Harry Potter und die Heiligtümer des Todes – Teil 2">
+    <title lang="de">Harry Potter und die Heiligtümer des Todes – Teil 2</title>
+    <desc lang="de">Der entscheidende Kampf um Hogwarts beginnt. Harry und seine Freunde stellen sich Voldemort in der letzten Schlacht um die Zauberwelt.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Phantastische Tierwesen und wo sie zu finden sind">
+    <display-name lang="de">Phantastische Tierwesen und wo sie zu finden sind</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Phantastische Tierwesen und wo sie zu finden sind">
+    <title lang="de">Phantastische Tierwesen und wo sie zu finden sind</title>
+    <desc lang="de">Der Magizoologe Newt Scamander reist nach New York. Als einige seiner magischen Geschöpfe entkommen, gerät die Zauberwelt in Gefahr.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Phantastische Tierwesen: Grindelwalds Verbrechen">
+    <display-name lang="de">Phantastische Tierwesen: Grindelwalds Verbrechen</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Phantastische Tierwesen: Grindelwalds Verbrechen">
+    <title lang="de">Phantastische Tierwesen: Grindelwalds Verbrechen</title>
+    <desc lang="de">Newt Scamander wird in den Konflikt zwischen Albus Dumbledore und dem dunklen Magier Gellert Grindelwald hineingezogen.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Phantastische Tierwesen: Dumbledores Geheimnisse">
+    <display-name lang="de">Phantastische Tierwesen: Dumbledores Geheimnisse</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Phantastische Tierwesen: Dumbledores Geheimnisse">
+    <title lang="de">Phantastische Tierwesen: Dumbledores Geheimnisse</title>
+    <desc lang="de">Dumbledore beauftragt Newt und seine Gefährten, Grindelwalds wachsenden Einfluss in der Zauberwelt aufzuhalten.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Harry Potter und der Stein der Weisen">
+    <display-name lang="de">Harry Potter und der Stein der Weisen</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Harry Potter und der Stein der Weisen">
+    <title lang="de">Harry Potter und der Stein der Weisen</title>
+    <desc lang="de">An seinem elften Geburtstag erfährt Harry, dass er ein Zauberer ist. In Hogwarts findet er Freunde und stößt auf ein verborgenes Geheimnis.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Harry Potter und die Kammer des Schreckens">
+    <display-name lang="de">Harry Potter und die Kammer des Schreckens</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Harry Potter und die Kammer des Schreckens">
+    <title lang="de">Harry Potter und die Kammer des Schreckens</title>
+    <desc lang="de">In Hogwarts kommt es zu rätselhaften Angriffen. Harry, Ron und Hermine suchen nach der sagenumwobenen Kammer des Schreckens.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Harry Potter und der Gefangene von Askaban">
+    <display-name lang="de">Harry Potter und der Gefangene von Askaban</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Harry Potter und der Gefangene von Askaban">
+    <title lang="de">Harry Potter und der Gefangene von Askaban</title>
+    <desc lang="de">Der Gefangene Sirius Black ist aus Askaban entkommen. Harry entdeckt überraschende Wahrheiten über seine Familie und Vergangenheit.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Harry Potter und der Feuerkelch">
+    <display-name lang="de">Harry Potter und der Feuerkelch</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Harry Potter und der Feuerkelch">
+    <title lang="de">Harry Potter und der Feuerkelch</title>
+    <desc lang="de">Harry wird unerwartet für das gefährliche Trimagische Turnier ausgewählt, während im Hintergrund eine dunkle Macht zurückkehrt.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Harry Potter und der Orden des Phönix">
+    <display-name lang="de">Harry Potter und der Orden des Phönix</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Harry Potter und der Orden des Phönix">
+    <title lang="de">Harry Potter und der Orden des Phönix</title>
+    <desc lang="de">Da Voldemorts Rückkehr geleugnet wird, bereiten sich Harry und seine Freunde heimlich auf den kommenden Kampf vor.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Harry Potter und der Halbblutprinz">
+    <display-name lang="de">Harry Potter und der Halbblutprinz</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Harry Potter und der Halbblutprinz">
+    <title lang="de">Harry Potter und der Halbblutprinz</title>
+    <desc lang="de">Harry und Dumbledore erforschen Voldemorts Vergangenheit. Gleichzeitig sorgen neue Geheimnisse und Gefahren in Hogwarts für Unruhe.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Two and a Half Men">
     <display-name lang="de">Two and a Half Men</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <channel id="DE: King of Queens 24/7">
-    <display-name lang="de">King of Queens</display-name>
-  </channel>
-  <channel id="DE: SERIEAX Game of Thrones HD+">
-    <display-name lang="de">Game of Thrones</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
-  </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Two and a Half Men HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Two and a Half Men">
     <title lang="de">Two and a Half Men</title>
     <desc lang="de">Two and a Half Men – Staffel 1–12</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Strange Evidence HD+">
-    <display-name lang="de">Strange Evidence</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
+  <channel id="King of Queens">
+    <display-name lang="de">King of Queens</display-name>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Strange Evidence HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="King of Queens">
+    <title lang="de">King of Queens</title>
+    <desc lang="de">King of Queens – Staffel 6, Folge 15</desc>
+    <category lang="de">Comedy</category>
+  </programme>
+  <channel id="Game of Thrones">
+    <display-name lang="de">Game of Thrones</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Game of Thrones">
+    <title lang="de">Game of Thrones</title>
+    <desc lang="de">Tyrion und Sansa werden verheiratet, während Daenerys neue Krieger für ihre Sache gewinnt.</desc>
+    <category lang="de">Fantasy</category>
+  </programme>
+  <channel id="Strange Evidence">
+    <display-name lang="de">Strange Evidence</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Strange Evidence">
     <title lang="de">Strange Evidence</title>
     <desc lang="de">Mysteriöse Videoaufnahmen und ungewöhnliche Phänomene werden mit wissenschaftlichen Methoden untersucht.</desc>
     <category lang="de">Dokumentation</category>
   </programme>
-  <channel id="DE: SERIEAX The UnXplained HD+">
+  <channel id="The UnXplained">
     <display-name lang="de">The UnXplained</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The UnXplained HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The UnXplained">
     <title lang="de">The UnXplained</title>
     <desc lang="de">Unerklärliche Ereignisse, rätselhafte Orte und außergewöhnliche Geschichten werden aus verschiedenen Blickwinkeln beleuchtet.</desc>
     <category lang="de">Dokumentation</category>
   </programme>
-  <channel id="DE: SERIEAX Ancient Aliens HD+">
+  <channel id="Ancient Aliens">
     <display-name lang="de">Ancient Aliens</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Ancient Aliens HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Ancient Aliens">
     <title lang="de">Ancient Aliens</title>
     <desc lang="de">Die Reihe untersucht Theorien über mögliche Kontakte zwischen frühen Kulturen und außerirdischem Leben.</desc>
     <category lang="de">Dokumentation</category>
   </programme>
-  <channel id="DE: SERIEAX Der kleine Prinz HD+">
+  <channel id="Der kleine Prinz">
     <display-name lang="de">Der kleine Prinz</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Der kleine Prinz HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der kleine Prinz">
     <title lang="de">Der kleine Prinz</title>
     <desc lang="de">Der kleine Prinz reist durch das Universum und erlebt fantasievolle Abenteuer über Freundschaft, Mut und Verantwortung.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Der kleine Ritter Trenk HD+">
+  <channel id="Der kleine Ritter Trenk">
     <display-name lang="de">Der kleine Ritter Trenk</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Der kleine Ritter Trenk HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der kleine Ritter Trenk">
     <title lang="de">Der kleine Ritter Trenk</title>
     <desc lang="de">Trenk möchte Ritter werden und erlebt mit seinen Freunden spannende Abenteuer im Mittelalter.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Die Abenteuer des jungen Marco Polo HD+">
+  <channel id="Die Abenteuer des jungen">
     <display-name lang="de">Die Abenteuer des jungen</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Die Abenteuer des jungen Marco Polo HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Die Abenteuer des jungen">
     <title lang="de">Die Abenteuer des jungen</title>
     <desc lang="de">Eine junge Hauptfigur entdeckt die Welt und erlebt dabei lehrreiche und aufregende Abenteuer.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Mascha und der Bar HD+">
+  <channel id="Mascha und der Bär">
     <display-name lang="de">Mascha und der Bär</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Mascha und der Bar HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Mascha und der Bär">
     <title lang="de">Mascha und der Bär</title>
     <desc lang="de">Die lebhafte Mascha bringt den gutmütigen Bären mit ihren Einfällen immer wieder in turbulente Situationen.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Miraculous HD+">
+  <channel id="Miraculous">
     <display-name lang="de">Miraculous</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Miraculous HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Miraculous">
     <title lang="de">Miraculous</title>
     <desc lang="de">Marinette und Adrien beschützen Paris als Ladybug und Cat Noir vor gefährlichen Superschurken.</desc>
     <category lang="de">Animation</category>
   </programme>
-  <channel id="DE: SERIEAX Peter Pan HD+">
+  <channel id="Peter Pan">
     <display-name lang="de">Peter Pan</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Peter Pan HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Peter Pan">
     <title lang="de">Peter Pan</title>
     <desc lang="de">Peter Pan, Wendy und ihre Freunde erleben magische Abenteuer im Nimmerland.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Henry Danger HD+">
+  <channel id="Henry Danger">
     <display-name lang="de">Henry Danger</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Henry Danger HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Henry Danger">
     <title lang="de">Henry Danger</title>
     <desc lang="de">Ein Teenager arbeitet heimlich als Assistent eines Superhelden und muss Schule und Heldendasein miteinander vereinbaren.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Paw Patrol HD+">
+  <channel id="Paw Patrol">
     <display-name lang="de">Paw Patrol</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Paw Patrol HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Paw Patrol">
     <title lang="de">Paw Patrol</title>
     <desc lang="de">Ein Team mutiger Rettungshunde hilft den Bewohnern der Abenteuerbucht bei kleinen und großen Notfällen.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Die Thundermans HD+">
+  <channel id="Die Thundermans">
     <display-name lang="de">Die Thundermans</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Die Thundermans HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Die Thundermans">
     <title lang="de">Die Thundermans</title>
     <desc lang="de">Eine Familie mit Superkräften versucht, ein möglichst normales Leben zu führen.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Der kleine Eisbär HD+">
+  <channel id="Der kleine Eisbär">
     <display-name lang="de">Der kleine Eisbär</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Der kleine Eisbär HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der kleine Eisbär">
     <title lang="de">Der kleine Eisbär</title>
     <desc lang="de">Der kleine Eisbär Lars erlebt mit seinen Freunden liebevolle Abenteuer in der Polarwelt.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Timo und Pumba HD+">
+  <channel id="Timon und Pumbaa">
     <display-name lang="de">Timon und Pumbaa</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Timo und Pumba HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Timon und Pumbaa">
     <title lang="de">Timon und Pumbaa</title>
     <desc lang="de">Timon und Pumbaa reisen durch die Welt und geraten mit ihrer unbekümmerten Art in komische Abenteuer.</desc>
     <category lang="de">Animation</category>
   </programme>
-  <channel id="DE: SERIEAX Spy Kids HD+">
+  <channel id="Spy Kids">
     <display-name lang="de">Spy Kids</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Spy Kids HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Spy Kids">
     <title lang="de">Spy Kids</title>
     <desc lang="de">Junge Geheimagenten lösen gefährliche Missionen und schützen ihre Familie vor ungewöhnlichen Gegnern.</desc>
     <category lang="de">Abenteuer</category>
   </programme>
-  <channel id="DE: SERIEAX The Boss Baby HD+">
+  <channel id="The Boss Baby">
     <display-name lang="de">The Boss Baby</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Boss Baby HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The Boss Baby">
     <title lang="de">The Boss Baby</title>
     <desc lang="de">Ein ungewöhnlich geschäftstüchtiges Baby erlebt mit seiner Familie turbulente Abenteuer.</desc>
     <category lang="de">Animation</category>
   </programme>
-  <channel id="DE: SERIEAX Disney's Grosse Pause HD+">
+  <channel id="Disneys Große Pause">
     <display-name lang="de">Disneys Große Pause</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Disney's Grosse Pause HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Disneys Große Pause">
     <title lang="de">Disneys Große Pause</title>
     <desc lang="de">Eine Gruppe von Schulfreunden erlebt während des Unterrichts und auf dem Pausenhof alltägliche Abenteuer.</desc>
     <category lang="de">Animation</category>
   </programme>
-  <channel id="DE: SERIEAX Mick's Clubhaus HD+">
+  <channel id="Mickys Clubhaus">
     <display-name lang="de">Mickys Clubhaus</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Mick's Clubhaus HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Mickys Clubhaus">
     <title lang="de">Mickys Clubhaus</title>
     <desc lang="de">Micky und seine Freunde lösen gemeinsam spielerische Aufgaben und kleine Rätsel.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Spongebob HD+">
+  <channel id="SpongeBob Schwammkopf">
     <display-name lang="de">SpongeBob Schwammkopf</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Spongebob HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="SpongeBob Schwammkopf">
     <title lang="de">SpongeBob Schwammkopf</title>
     <desc lang="de">SpongeBob erlebt mit Patrick, Thaddäus und seinen Freunden verrückte Abenteuer in Bikini Bottom.</desc>
     <category lang="de">Animation</category>
   </programme>
-  <channel id="DE: SERIEAX Micky und die flinken Flitzer HD+">
+  <channel id="Micky und die flinken Flitzer">
     <display-name lang="de">Micky und die flinken Flitzer</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Micky und die flinken Flitzer HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Micky und die flinken Flitzer">
     <title lang="de">Micky und die flinken Flitzer</title>
     <desc lang="de">Micky und seine Freunde treten mit ihren Fahrzeugen zu spannenden Rennen und Hilfseinsätzen an.</desc>
     <category lang="de">Kinder</category>
   </programme>
-  <channel id="DE: SERIEAX Tom und Jerry Show HD+">
+  <channel id="Tom und Jerry Show">
     <display-name lang="de">Tom und Jerry Show</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Tom und Jerry Show HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Tom und Jerry Show">
     <title lang="de">Tom und Jerry Show</title>
     <desc lang="de">Kater Tom und Maus Jerry liefern sich fantasievolle und chaotische Verfolgungsjagden.</desc>
     <category lang="de">Animation</category>
   </programme>
-  <channel id="DE: SERIEAX Fast Furious Spy Racers HD+">
+  <channel id="Fast &amp; Furious: Spy Racers">
     <display-name lang="de">Fast &amp; Furious: Spy Racers</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Fast Furious Spy Racers HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Fast &amp; Furious: Spy Racers">
     <title lang="de">Fast &amp; Furious: Spy Racers</title>
     <desc lang="de">Junge Rennfahrer werden für geheime Missionen rekrutiert und stellen sich gefährlichen Gegnern.</desc>
     <category lang="de">Animation</category>
   </programme>
-  <channel id="DE: SERIEAX 2 Broke Girls HD+">
+  <channel id="2 Broke Girls">
     <display-name lang="de">2 Broke Girls</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX 2 Broke Girls HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="2 Broke Girls">
     <title lang="de">2 Broke Girls</title>
     <desc lang="de">Zwei junge Kellnerinnen träumen in New York vom eigenen Geschäft und kämpfen mit wenig Geld und viel Humor.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX 4.Blocks HD+">
+  <channel id="4 Blocks">
     <display-name lang="de">4 Blocks</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX 4.Blocks HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="4 Blocks">
     <title lang="de">4 Blocks</title>
     <desc lang="de">Ein Berliner Clan-Chef versucht, sein kriminelles Leben hinter sich zu lassen, wird jedoch von Familie und Rivalen eingeholt.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX 911 HD+">
+  <channel id="9-1-1">
     <display-name lang="de">9-1-1</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX 911 HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="9-1-1">
     <title lang="de">9-1-1</title>
     <desc lang="de">Polizei, Feuerwehr und Rettungsdienst bewältigen spektakuläre Notfälle und persönliche Herausforderungen.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Alle hassen Chris HD+">
+  <channel id="Alle hassen Chris">
     <display-name lang="de">Alle hassen Chris</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Alle hassen Chris HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Alle hassen Chris">
     <title lang="de">Alle hassen Chris</title>
     <desc lang="de">Chris wächst in Brooklyn auf und begegnet den Herausforderungen von Schule und Familie mit viel Humor.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX American Horror Story HD+">
+  <channel id="American Horror Story">
     <display-name lang="de">American Horror Story</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX American Horror Story HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="American Horror Story">
     <title lang="de">American Horror Story</title>
     <desc lang="de">Jede Staffel erzählt eine eigenständige düstere Geschichte voller Horror, Geheimnisse und überraschender Wendungen.</desc>
     <category lang="de">Horror</category>
   </programme>
-  <channel id="DE: SERIEAX Anger Management HD+">
+  <channel id="Anger Management">
     <display-name lang="de">Anger Management</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Anger Management HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Anger Management">
     <title lang="de">Anger Management</title>
     <desc lang="de">Ein unkonventioneller Therapeut behandelt Menschen mit Wutproblemen und kämpft zugleich mit seinem eigenen chaotischen Alltag.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Arrow HD+">
+  <channel id="Arrow">
     <display-name lang="de">Arrow</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Arrow HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Arrow">
     <title lang="de">Arrow</title>
     <desc lang="de">Oliver Queen kehrt als maskierter Bogenschütze zurück und kämpft gegen Verbrechen und Korruption.</desc>
     <category lang="de">Action</category>
   </programme>
-  <channel id="DE: SERIEAX Ballers HD+">
+  <channel id="Ballers">
     <display-name lang="de">Ballers</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Ballers HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Ballers">
     <title lang="de">Ballers</title>
     <desc lang="de">Ein ehemaliger Footballspieler berät Profisportler und bewegt sich zwischen Karriere, Geld und persönlichen Krisen.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Blue Bloods HD+">
+  <channel id="Blue Bloods">
     <display-name lang="de">Blue Bloods</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Blue Bloods HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Blue Bloods">
     <title lang="de">Blue Bloods</title>
     <desc lang="de">Eine New Yorker Polizeifamilie verbindet berufliche Pflicht mit familiären Traditionen und Konflikten.</desc>
     <category lang="de">Krimi</category>
   </programme>
-  <channel id="DE: SERIEAX Bull HD+">
+  <channel id="Bull">
     <display-name lang="de">Bull</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Bull HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Bull">
     <title lang="de">Bull</title>
     <desc lang="de">Ein Spezialist für Gerichtspsychologie unterstützt Anwälte bei der Auswahl von Geschworenen und komplexen Prozessen.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Chicago Fire HD+">
+  <channel id="Chicago Fire">
     <display-name lang="de">Chicago Fire</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Chicago Fire HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Chicago Fire">
     <title lang="de">Chicago Fire</title>
     <desc lang="de">Feuerwehrleute und Rettungskräfte in Chicago riskieren täglich ihr Leben und halten als Team zusammen.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Chicago MED HD+">
+  <channel id="Chicago Med">
     <display-name lang="de">Chicago Med</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Chicago MED HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Chicago Med">
     <title lang="de">Chicago Med</title>
     <desc lang="de">Ärzte und Pflegekräfte eines Chicagoer Krankenhauses kämpfen um ihre Patienten und mit persönlichen Entscheidungen.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Club der roten Bänder HD+">
+  <channel id="Club der roten Bänder">
     <display-name lang="de">Club der roten Bänder</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Club der roten Bänder HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Club der roten Bänder">
     <title lang="de">Club der roten Bänder</title>
     <desc lang="de">Jugendliche im Krankenhaus schließen eine enge Freundschaft und unterstützen sich in schwierigen Zeiten.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Cobra Kai HD+">
+  <channel id="Cobra Kai">
     <display-name lang="de">Cobra Kai</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Cobra Kai HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Cobra Kai">
     <title lang="de">Cobra Kai</title>
     <desc lang="de">Alte Rivalen aus dem Karate Kid-Universum treffen erneut aufeinander und prägen eine neue Generation von Schülern.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Criminal Minds HD+">
+  <channel id="Criminal Minds">
     <display-name lang="de">Criminal Minds</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Criminal Minds HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Criminal Minds">
     <title lang="de">Criminal Minds</title>
     <desc lang="de">Ein Profiler-Team des FBI analysiert gefährliche Täter und versucht, weitere Verbrechen zu verhindern.</desc>
     <category lang="de">Krimi</category>
   </programme>
-  <channel id="DE: SERIEAX FBI HD+">
+  <channel id="FBI">
     <display-name lang="de">FBI</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX FBI HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="FBI">
     <title lang="de">FBI</title>
     <desc lang="de">Agentinnen und Agenten des FBI bearbeiten schwere Fälle und schützen New York vor gefährlichen Bedrohungen.</desc>
     <category lang="de">Krimi</category>
   </programme>
-  <channel id="DE: SERIEAX Fear the Walking Dead HD+">
+  <channel id="Fear the Walking Dead">
     <display-name lang="de">Fear the Walking Dead</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Fear the Walking Dead HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Fear the Walking Dead">
     <title lang="de">Fear the Walking Dead</title>
     <desc lang="de">Eine Gruppe Überlebender kämpft in einer zusammengebrochenen Welt gegen Untote und menschliche Gefahren.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Full House HD+">
+  <channel id="Full House">
     <display-name lang="de">Full House</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Full House HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Full House">
     <title lang="de">Full House</title>
     <desc lang="de">Ein verwitweter Vater zieht mit Freunden und Familie drei Töchter in einem lebhaften Haushalt groß.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Gomorra HD+">
+  <channel id="Gomorra">
     <display-name lang="de">Gomorra</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Gomorra HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Gomorra">
     <title lang="de">Gomorra</title>
     <desc lang="de">Machtkämpfe innerhalb der neapolitanischen Unterwelt bestimmen das Leben rivalisierender Gruppen.</desc>
     <category lang="de">Krimi</category>
   </programme>
-  <channel id="DE: SERIEAX Grimm HD+">
+  <channel id="Grimm">
     <display-name lang="de">Grimm</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Grimm HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Grimm">
     <title lang="de">Grimm</title>
     <desc lang="de">Ein Polizist entdeckt, dass er übernatürliche Wesen erkennen kann und Teil einer alten Wächterlinie ist.</desc>
     <category lang="de">Fantasy</category>
   </programme>
-  <channel id="DE: SERIEAX Jerks HD+">
+  <channel id="jerks.">
     <display-name lang="de">jerks.</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Jerks HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="jerks.">
     <title lang="de">jerks.</title>
     <desc lang="de">Zwei Freunde geraten durch Egoismus, Unsicherheit und schlechte Entscheidungen in peinliche Alltagssituationen.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Kevin can't Wait HD+">
+  <channel id="Kevin Can Wait">
     <display-name lang="de">Kevin Can Wait</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Kevin can't Wait HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Kevin Can Wait">
     <title lang="de">Kevin Can Wait</title>
     <desc lang="de">Ein pensionierter Polizist stellt fest, dass das Familienleben anstrengender ist als sein früherer Beruf.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Last Man Standing HD+">
+  <channel id="Last Man Standing">
     <display-name lang="de">Last Man Standing</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Last Man Standing HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Last Man Standing">
     <title lang="de">Last Man Standing</title>
     <desc lang="de">Ein Familienvater versucht, sich in einem von starken Frauen geprägten Haushalt zu behaupten.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Malcom Mittendrin HD+">
+  <channel id="Malcolm mittendrin">
     <display-name lang="de">Malcolm mittendrin</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Malcom Mittendrin HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Malcolm mittendrin">
     <title lang="de">Malcolm mittendrin</title>
     <desc lang="de">Der hochbegabte Malcolm wächst in einer chaotischen Familie auf und kommentiert seinen verrückten Alltag.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Mr.Robot HD+">
+  <channel id="Mr. Robot">
     <display-name lang="de">Mr. Robot</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Mr.Robot HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Mr. Robot">
     <title lang="de">Mr. Robot</title>
     <desc lang="de">Ein talentierter Hacker wird in eine radikale Bewegung hineingezogen, die das globale Finanzsystem verändern will.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Narcos HD+">
+  <channel id="Narcos">
     <display-name lang="de">Narcos</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Narcos HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Narcos">
     <title lang="de">Narcos</title>
     <desc lang="de">Die Serie schildert den Aufstieg mächtiger Drogenkartelle und den Kampf der Behörden gegen sie.</desc>
     <category lang="de">Krimi</category>
   </programme>
-  <channel id="DE: SERIEAX Navy CIS HD+">
+  <channel id="Navy CIS">
     <display-name lang="de">Navy CIS</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Navy CIS HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Navy CIS">
     <title lang="de">Navy CIS</title>
     <desc lang="de">Ein Ermittlerteam untersucht Verbrechen mit Verbindung zur US Navy und zum Marine Corps.</desc>
     <category lang="de">Krimi</category>
   </programme>
-  <channel id="DE: SERIEAX Riverdale HD+">
+  <channel id="Riverdale">
     <display-name lang="de">Riverdale</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Riverdale HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Riverdale">
     <title lang="de">Riverdale</title>
     <desc lang="de">Jugendliche entdecken hinter der scheinbar idyllischen Kleinstadt dunkle Geheimnisse und gefährliche Intrigen.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX S.W.A.T HD+">
+  <channel id="S.W.A.T.">
     <display-name lang="de">S.W.A.T.</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX S.W.A.T HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="S.W.A.T.">
     <title lang="de">S.W.A.T.</title>
     <desc lang="de">Eine taktische Spezialeinheit in Los Angeles übernimmt besonders gefährliche Einsätze.</desc>
     <category lang="de">Action</category>
   </programme>
-  <channel id="DE: SERIEAX SEAL Team HD+">
+  <channel id="SEAL Team">
     <display-name lang="de">SEAL Team</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX SEAL Team HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="SEAL Team">
     <title lang="de">SEAL Team</title>
     <desc lang="de">Eine Eliteeinheit der Navy SEALs bewältigt riskante Missionen und die Belastungen ihres Privatlebens.</desc>
     <category lang="de">Action</category>
   </programme>
-  <channel id="DE: SERIEAX Start Up HD+">
+  <channel id="StartUp">
     <display-name lang="de">StartUp</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Start Up HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="StartUp">
     <title lang="de">StartUp</title>
     <desc lang="de">Eine digitale Währung verbindet Unternehmer, Hacker und Kriminelle in einem gefährlichen Machtkampf.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Suits HD+">
+  <channel id="Suits">
     <display-name lang="de">Suits</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Suits HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Suits">
     <title lang="de">Suits</title>
     <desc lang="de">Ein brillanter junger Mann ohne Juraabschluss arbeitet für einen erfolgreichen New Yorker Anwalt.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Supernatural HD+">
+  <channel id="Supernatural">
     <display-name lang="de">Supernatural</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Supernatural HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Supernatural">
     <title lang="de">Supernatural</title>
     <desc lang="de">Die Brüder Sam und Dean Winchester jagen Dämonen, Geister und andere übernatürliche Bedrohungen.</desc>
     <category lang="de">Fantasy</category>
   </programme>
-  <channel id="DE: SERIEAX The 100 HD+">
+  <channel id="The 100">
     <display-name lang="de">The 100</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The 100 HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The 100">
     <title lang="de">The 100</title>
     <desc lang="de">Junge Überlebende werden auf die Erde geschickt und müssen eine neue Gesellschaft aufbauen.</desc>
     <category lang="de">Science-Fiction</category>
   </programme>
-  <channel id="DE: SERIEAX The Big Bang Theory HD+">
+  <channel id="The Big Bang Theory">
     <display-name lang="de">The Big Bang Theory</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Big Bang Theory HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The Big Bang Theory">
     <title lang="de">The Big Bang Theory</title>
     <desc lang="de">Eine Gruppe hochintelligenter Freunde verbindet Wissenschaft, Beziehungen und alltägliches Chaos.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX The Blacklist HD+">
+  <channel id="The Blacklist">
     <display-name lang="de">The Blacklist</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Blacklist HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The Blacklist">
     <title lang="de">The Blacklist</title>
     <desc lang="de">Ein gesuchter Verbrecher arbeitet mit dem FBI zusammen und liefert Hinweise auf besonders gefährliche Täter.</desc>
     <category lang="de">Krimi</category>
   </programme>
-  <channel id="DE: SERIEAX The Flash HD+">
+  <channel id="The Flash">
     <display-name lang="de">The Flash</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Flash HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The Flash">
     <title lang="de">The Flash</title>
     <desc lang="de">Barry Allen nutzt seine außergewöhnliche Geschwindigkeit, um Central City vor mächtigen Gegnern zu beschützen.</desc>
     <category lang="de">Action</category>
   </programme>
-  <channel id="DE: SERIEAX The Good Doctor HD+">
+  <channel id="The Good Doctor">
     <display-name lang="de">The Good Doctor</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Good Doctor HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The Good Doctor">
     <title lang="de">The Good Doctor</title>
     <desc lang="de">Ein junger Chirurg mit außergewöhnlichen Fähigkeiten muss sich im anspruchsvollen Krankenhausalltag beweisen.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX The Protectore HD+">
+  <channel id="The Protector">
     <display-name lang="de">The Protector</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Protectore HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The Protector">
     <title lang="de">The Protector</title>
     <desc lang="de">Ein junger Mann entdeckt seine Bestimmung als Beschützer Istanbuls gegen uralte Feinde.</desc>
     <category lang="de">Fantasy</category>
   </programme>
-  <channel id="DE: SERIEAX The Walking Dead HD+">
+  <channel id="The Walking Dead">
     <display-name lang="de">The Walking Dead</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Walking Dead HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="The Walking Dead">
     <title lang="de">The Walking Dead</title>
     <desc lang="de">Überlebende suchen in einer von Untoten beherrschten Welt nach Sicherheit, Gemeinschaft und Hoffnung.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <channel id="DE: SERIEAX Van Helsing HD+">
+  <channel id="Van Helsing">
     <display-name lang="de">Van Helsing</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Van Helsing HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Van Helsing">
     <title lang="de">Van Helsing</title>
     <desc lang="de">Vanessa Helsing erwacht in einer von Vampiren beherrschten Welt und wird zur Hoffnung der Menschheit.</desc>
     <category lang="de">Fantasy</category>
   </programme>
-  <channel id="DE: SERIEAX Young Sheldon HD+">
+  <channel id="Young Sheldon">
     <display-name lang="de">Young Sheldon</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Young Sheldon HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Young Sheldon">
     <title lang="de">Young Sheldon</title>
     <desc lang="de">Der junge Sheldon Cooper wächst als hochbegabtes Kind in einer texanischen Familie auf.</desc>
     <category lang="de">Comedy</category>
   </programme>
-  <channel id="DE: SERIEAX Z Nation HD+">
+  <channel id="Z Nation">
     <display-name lang="de">Z Nation</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Z Nation HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Z Nation">
     <title lang="de">Z Nation</title>
     <desc lang="de">Eine Gruppe muss den möglichen Schlüssel zu einem Heilmittel quer durch das von Zombies verwüstete Land bringen.</desc>
     <category lang="de">Action</category>
   </programme>
-  <channel id="DE: SERIEAX Zoo HD+">
+  <channel id="Zoo">
     <display-name lang="de">Zoo</display-name>
-    <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
-  <channel id="DE: MAX 007 HD DE">
-    <display-name lang="de">MAX 007</display-name>
-  </channel>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Zoo HD+">
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Zoo">
     <title lang="de">Zoo</title>
     <desc lang="de">Weltweit greifen Tiere plötzlich Menschen an, und ein Team sucht nach der Ursache dieser Entwicklung.</desc>
     <category lang="de">Drama</category>
   </programme>
-  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: Cinedome Mittelerde HD+"><title lang="de">Cinedome Mittelerde</title><desc lang="de">Der Hobbit und Der Herr der Ringe – alle Filme rund um Mittelerde.</desc><category lang="de">Fantasy</category></programme><programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: Cinedome Harry Potter HD+"><title lang="de">Cinedome Harry Potter</title><desc lang="de">Harry Potter und Phantastische Tierwesen – die komplette Zauberwelt.</desc><category lang="de">Fantasy</category></programme><programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: Cinedome 007 HD+"><title lang="de">Cinedome 007</title><desc lang="de">James Bond 007 – die Bond-Filme rund um den berühmtesten Geheimagenten der Welt.</desc><category lang="de">Action</category></programme><programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: MAX 007 HD DE"><title lang="de">MAX 007</title><desc lang="de">James Bond 007 – die Bond-Filme rund um den berühmtesten Geheimagenten der Welt.</desc><category lang="de">Action</category></programme><programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Game of Thrones HD+"><title lang="de">Game of Thrones</title><desc lang="de">Game of Thrones – Staffel 1–8</desc><category lang="de">Fantasy</category></programme><programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: King of Queens 24/7"><title lang="de">King of Queens</title><desc lang="de">King of Queens – Staffel 1–9</desc><category lang="de">Comedy</category></programme></tv>
+  <channel id="Keine Zeit zu sterben">
+    <display-name lang="de">Keine Zeit zu sterben</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Keine Zeit zu sterben">
+    <title lang="de">Keine Zeit zu sterben</title>
+    <desc lang="de">Bond kehrt aus dem Ruhestand zurück, um einen entführten Wissenschaftler zu retten.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="James Bond jagt Dr. No">
+    <display-name lang="de">James Bond jagt Dr. No</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="James Bond jagt Dr. No">
+    <title lang="de">James Bond jagt Dr. No</title>
+    <desc lang="de">James Bond reist nach Jamaika und stößt auf den geheimnisvollen Dr. No.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Liebesgrüße aus Moskau">
+    <display-name lang="de">Liebesgrüße aus Moskau</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Liebesgrüße aus Moskau">
+    <title lang="de">Liebesgrüße aus Moskau</title>
+    <desc lang="de">Bond soll eine sowjetische Dechiffriermaschine beschaffen und gerät in eine Falle von SPECTRE.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Goldfinger">
+    <display-name lang="de">Goldfinger</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Goldfinger">
+    <title lang="de">Goldfinger</title>
+    <desc lang="de">Bond untersucht die Pläne des Goldmagnaten Auric Goldfinger.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Feuerball">
+    <display-name lang="de">Feuerball</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Feuerball">
+    <title lang="de">Feuerball</title>
+    <desc lang="de">Bond sucht auf den Bahamas nach gestohlenen Atombomben.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Man lebt nur zweimal">
+    <display-name lang="de">Man lebt nur zweimal</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Man lebt nur zweimal">
+    <title lang="de">Man lebt nur zweimal</title>
+    <desc lang="de">Bond ermittelt in Japan gegen eine geheime Raketenbasis von SPECTRE.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Im Geheimdienst Ihrer Majestät">
+    <display-name lang="de">Im Geheimdienst Ihrer Majestät</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Im Geheimdienst Ihrer Majestät">
+    <title lang="de">Im Geheimdienst Ihrer Majestät</title>
+    <desc lang="de">Bond verfolgt Blofeld bis in die Schweizer Alpen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Diamantenfieber">
+    <display-name lang="de">Diamantenfieber</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Diamantenfieber">
+    <title lang="de">Diamantenfieber</title>
+    <desc lang="de">Eine Spur geschmuggelter Diamanten führt Bond erneut zu Blofeld.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Leben und sterben lassen">
+    <display-name lang="de">Leben und sterben lassen</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Leben und sterben lassen">
+    <title lang="de">Leben und sterben lassen</title>
+    <desc lang="de">Bond untersucht den Tod mehrerer britischer Agenten und trifft auf Kananga.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Der Mann mit dem goldenen Colt">
+    <display-name lang="de">Der Mann mit dem goldenen Colt</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Mann mit dem goldenen Colt">
+    <title lang="de">Der Mann mit dem goldenen Colt</title>
+    <desc lang="de">Bond wird zum Ziel des Auftragskillers Francisco Scaramanga.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Der Spion, der mich liebte">
+    <display-name lang="de">Der Spion, der mich liebte</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Spion, der mich liebte">
+    <title lang="de">Der Spion, der mich liebte</title>
+    <desc lang="de">Bond arbeitet mit einer sowjetischen Agentin gegen den Größenwahnsinnigen Stromberg.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Moonraker – Streng geheim">
+    <display-name lang="de">Moonraker – Streng geheim</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Moonraker – Streng geheim">
+    <title lang="de">Moonraker – Streng geheim</title>
+    <desc lang="de">Die Entführung eines Raumtransporters führt Bond bis ins All.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="In tödlicher Mission">
+    <display-name lang="de">In tödlicher Mission</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="In tödlicher Mission">
+    <title lang="de">In tödlicher Mission</title>
+    <desc lang="de">Bond sucht ein gesunkenes Steuerungssystem, bevor es in falsche Hände gerät.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Octopussy">
+    <display-name lang="de">Octopussy</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Octopussy">
+    <title lang="de">Octopussy</title>
+    <desc lang="de">Bond deckt einen Plan auf, der einen Atomanschlag in Europa auslösen soll.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Im Angesicht des Todes">
+    <display-name lang="de">Im Angesicht des Todes</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Im Angesicht des Todes">
+    <title lang="de">Im Angesicht des Todes</title>
+    <desc lang="de">Bond versucht, Max Zorins Angriff auf das Silicon Valley zu verhindern.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Der Hauch des Todes">
+    <display-name lang="de">Der Hauch des Todes</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Hauch des Todes">
+    <title lang="de">Der Hauch des Todes</title>
+    <desc lang="de">Bond gerät in ein Geflecht aus Überläufern, Waffenhandel und Geheimdienstintrigen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Lizenz zum Töten">
+    <display-name lang="de">Lizenz zum Töten</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Lizenz zum Töten">
+    <title lang="de">Lizenz zum Töten</title>
+    <desc lang="de">Bond handelt auf eigene Faust gegen den Drogenbaron Franz Sanchez.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="GoldenEye">
+    <display-name lang="de">GoldenEye</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="GoldenEye">
+    <title lang="de">GoldenEye</title>
+    <desc lang="de">Bond muss eine mächtige Satellitenwaffe und einen früheren Verbündeten stoppen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Der Morgen stirbt nie">
+    <display-name lang="de">Der Morgen stirbt nie</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Der Morgen stirbt nie">
+    <title lang="de">Der Morgen stirbt nie</title>
+    <desc lang="de">Ein Medienmogul will einen Krieg zwischen Großbritannien und China provozieren.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Die Welt ist nicht genug">
+    <display-name lang="de">Die Welt ist nicht genug</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Die Welt ist nicht genug">
+    <title lang="de">Die Welt ist nicht genug</title>
+    <desc lang="de">Bond beschützt eine Ölerbin und stößt auf einen gefährlichen Terroristen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Stirb an einem anderen Tag">
+    <display-name lang="de">Stirb an einem anderen Tag</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Stirb an einem anderen Tag">
+    <title lang="de">Stirb an einem anderen Tag</title>
+    <desc lang="de">Nach seiner Gefangenschaft verfolgt Bond eine Spur von Nordkorea bis Island.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Casino Royale">
+    <display-name lang="de">Casino Royale</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Casino Royale">
+    <title lang="de">Casino Royale</title>
+    <desc lang="de">Bond tritt bei einem Hochrisiko-Pokerspiel gegen den Terrorfinanzierer Le Chiffre an.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Ein Quantum Trost">
+    <display-name lang="de">Ein Quantum Trost</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Ein Quantum Trost">
+    <title lang="de">Ein Quantum Trost</title>
+    <desc lang="de">Bond verfolgt eine Organisation, die weltweit politische Macht und Ressourcen kontrollieren will.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Skyfall">
+    <display-name lang="de">Skyfall</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Skyfall">
+    <title lang="de">Skyfall</title>
+    <desc lang="de">Ein Angriff auf den MI6 zwingt Bond, sich seiner Vergangenheit zu stellen.</desc>
+    <category lang="de">Action</category>
+  </programme>
+  <channel id="Spectre">
+    <display-name lang="de">Spectre</display-name>
+  </channel>
+  <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="Spectre">
+    <title lang="de">Spectre</title>
+    <desc lang="de">Eine Botschaft aus der Vergangenheit führt Bond zur Organisation SPECTRE.</desc>
+    <category lang="de">Action</category>
+  </programme>
+</tv>
