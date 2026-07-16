@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv generator-info-name="Combined XMLTV Generator">
   <channel id="DE: Cinedome Mittelerde HD+">
-    <display-name lang="de">DE: Cinedome Mittelerde HD+</display-name>
+    <display-name lang="de">Cinedome Mittelerde</display-name>
   </channel>
   <channel id="DE: Cinedome 007 HD+">
-    <display-name lang="de">DE: Cinedome 007 HD+</display-name>
+    <display-name lang="de">Cinedome 007</display-name>
   </channel>
   <channel id="DE: Cinedome Harry Potter HD+">
-    <display-name lang="de">DE: Cinedome Harry Potter HD+</display-name>
+    <display-name lang="de">Cinedome Harry Potter</display-name>
   </channel>
   <channel id="DE: SERIEAX Two and a Half Men HD+">
-    <display-name lang="de">DE: SERIEAX Two and a Half Men HD+</display-name>
+    <display-name lang="de">Two and a Half Men</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <channel id="DE: King of Queens 24/7">
-    <display-name lang="de">DE: King of Queens 24/7</display-name>
+    <display-name lang="de">King of Queens</display-name>
   </channel>
   <channel id="DE: SERIEAX Game of Thrones HD+">
-    <display-name lang="de">DE: SERIEAX Game of Thrones HD+</display-name>
+    <display-name lang="de">Game of Thrones</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Two and a Half Men HD+">
@@ -26,7 +26,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Strange Evidence HD+">
-    <display-name lang="de">DE: SERIEAX Strange Evidence HD+</display-name>
+    <display-name lang="de">Strange Evidence</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Strange Evidence HD+">
@@ -35,7 +35,7 @@
     <category lang="de">Dokumentation</category>
   </programme>
   <channel id="DE: SERIEAX The UnXplained HD+">
-    <display-name lang="de">DE: SERIEAX The UnXplained HD+</display-name>
+    <display-name lang="de">The UnXplained</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The UnXplained HD+">
@@ -44,7 +44,7 @@
     <category lang="de">Dokumentation</category>
   </programme>
   <channel id="DE: SERIEAX Ancient Aliens HD+">
-    <display-name lang="de">DE: SERIEAX Ancient Aliens HD+</display-name>
+    <display-name lang="de">Ancient Aliens</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Ancient Aliens HD+">
@@ -53,7 +53,7 @@
     <category lang="de">Dokumentation</category>
   </programme>
   <channel id="DE: SERIEAX Der kleine Prinz HD+">
-    <display-name lang="de">DE: SERIEAX Der kleine Prinz HD+</display-name>
+    <display-name lang="de">Der kleine Prinz</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Der kleine Prinz HD+">
@@ -62,7 +62,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Der kleine Ritter Trenk HD+">
-    <display-name lang="de">DE: SERIEAX Der kleine Ritter Trenk HD+</display-name>
+    <display-name lang="de">Der kleine Ritter Trenk</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Der kleine Ritter Trenk HD+">
@@ -71,7 +71,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Die Abenteuer des jungen Marco Polo HD+">
-    <display-name lang="de">DE: SERIEAX Die Abenteuer des jungen Marco Polo HD+</display-name>
+    <display-name lang="de">Die Abenteuer des jungen</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Die Abenteuer des jungen Marco Polo HD+">
@@ -80,7 +80,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Mascha und der Bar HD+">
-    <display-name lang="de">DE: SERIEAX Mascha und der Bar HD+</display-name>
+    <display-name lang="de">Mascha und der Bär</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Mascha und der Bar HD+">
@@ -89,7 +89,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Miraculous HD+">
-    <display-name lang="de">DE: SERIEAX Miraculous HD+</display-name>
+    <display-name lang="de">Miraculous</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Miraculous HD+">
@@ -98,7 +98,7 @@
     <category lang="de">Animation</category>
   </programme>
   <channel id="DE: SERIEAX Peter Pan HD+">
-    <display-name lang="de">DE: SERIEAX Peter Pan HD+</display-name>
+    <display-name lang="de">Peter Pan</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Peter Pan HD+">
@@ -107,7 +107,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Henry Danger HD+">
-    <display-name lang="de">DE: SERIEAX Henry Danger HD+</display-name>
+    <display-name lang="de">Henry Danger</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Henry Danger HD+">
@@ -116,7 +116,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Paw Patrol HD+">
-    <display-name lang="de">DE: SERIEAX Paw Patrol HD+</display-name>
+    <display-name lang="de">Paw Patrol</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Paw Patrol HD+">
@@ -125,7 +125,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Die Thundermans HD+">
-    <display-name lang="de">DE: SERIEAX Die Thundermans HD+</display-name>
+    <display-name lang="de">Die Thundermans</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Die Thundermans HD+">
@@ -134,7 +134,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Der kleine Eisbär HD+">
-    <display-name lang="de">DE: SERIEAX Der kleine Eisbär HD+</display-name>
+    <display-name lang="de">Der kleine Eisbär</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Der kleine Eisbär HD+">
@@ -143,7 +143,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Timo und Pumba HD+">
-    <display-name lang="de">DE: SERIEAX Timo und Pumba HD+</display-name>
+    <display-name lang="de">Timon und Pumbaa</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Timo und Pumba HD+">
@@ -152,7 +152,7 @@
     <category lang="de">Animation</category>
   </programme>
   <channel id="DE: SERIEAX Spy Kids HD+">
-    <display-name lang="de">DE: SERIEAX Spy Kids HD+</display-name>
+    <display-name lang="de">Spy Kids</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Spy Kids HD+">
@@ -161,7 +161,7 @@
     <category lang="de">Abenteuer</category>
   </programme>
   <channel id="DE: SERIEAX The Boss Baby HD+">
-    <display-name lang="de">DE: SERIEAX The Boss Baby HD+</display-name>
+    <display-name lang="de">The Boss Baby</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Boss Baby HD+">
@@ -170,7 +170,7 @@
     <category lang="de">Animation</category>
   </programme>
   <channel id="DE: SERIEAX Disney's Grosse Pause HD+">
-    <display-name lang="de">DE: SERIEAX Disney's Grosse Pause HD+</display-name>
+    <display-name lang="de">Disneys Große Pause</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Disney's Grosse Pause HD+">
@@ -179,7 +179,7 @@
     <category lang="de">Animation</category>
   </programme>
   <channel id="DE: SERIEAX Mick's Clubhaus HD+">
-    <display-name lang="de">DE: SERIEAX Mick's Clubhaus HD+</display-name>
+    <display-name lang="de">Mickys Clubhaus</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Mick's Clubhaus HD+">
@@ -188,7 +188,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Spongebob HD+">
-    <display-name lang="de">DE: SERIEAX Spongebob HD+</display-name>
+    <display-name lang="de">SpongeBob Schwammkopf</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Spongebob HD+">
@@ -197,7 +197,7 @@
     <category lang="de">Animation</category>
   </programme>
   <channel id="DE: SERIEAX Micky und die flinken Flitzer HD+">
-    <display-name lang="de">DE: SERIEAX Micky und die flinken Flitzer HD+</display-name>
+    <display-name lang="de">Micky und die flinken Flitzer</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Micky und die flinken Flitzer HD+">
@@ -206,7 +206,7 @@
     <category lang="de">Kinder</category>
   </programme>
   <channel id="DE: SERIEAX Tom und Jerry Show HD+">
-    <display-name lang="de">DE: SERIEAX Tom und Jerry Show HD+</display-name>
+    <display-name lang="de">Tom und Jerry Show</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Tom und Jerry Show HD+">
@@ -215,7 +215,7 @@
     <category lang="de">Animation</category>
   </programme>
   <channel id="DE: SERIEAX Fast Furious Spy Racers HD+">
-    <display-name lang="de">DE: SERIEAX Fast Furious Spy Racers HD+</display-name>
+    <display-name lang="de">Fast &amp; Furious: Spy Racers</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Fast Furious Spy Racers HD+">
@@ -224,7 +224,7 @@
     <category lang="de">Animation</category>
   </programme>
   <channel id="DE: SERIEAX 2 Broke Girls HD+">
-    <display-name lang="de">DE: SERIEAX 2 Broke Girls HD+</display-name>
+    <display-name lang="de">2 Broke Girls</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX 2 Broke Girls HD+">
@@ -233,7 +233,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX 4.Blocks HD+">
-    <display-name lang="de">DE: SERIEAX 4.Blocks HD+</display-name>
+    <display-name lang="de">4 Blocks</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX 4.Blocks HD+">
@@ -242,7 +242,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX 911 HD+">
-    <display-name lang="de">DE: SERIEAX 911 HD+</display-name>
+    <display-name lang="de">9-1-1</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX 911 HD+">
@@ -251,7 +251,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Alle hassen Chris HD+">
-    <display-name lang="de">DE: SERIEAX Alle hassen Chris HD+</display-name>
+    <display-name lang="de">Alle hassen Chris</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Alle hassen Chris HD+">
@@ -260,7 +260,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX American Horror Story HD+">
-    <display-name lang="de">DE: SERIEAX American Horror Story HD+</display-name>
+    <display-name lang="de">American Horror Story</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX American Horror Story HD+">
@@ -269,7 +269,7 @@
     <category lang="de">Horror</category>
   </programme>
   <channel id="DE: SERIEAX Anger Management HD+">
-    <display-name lang="de">DE: SERIEAX Anger Management HD+</display-name>
+    <display-name lang="de">Anger Management</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Anger Management HD+">
@@ -278,7 +278,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Arrow HD+">
-    <display-name lang="de">DE: SERIEAX Arrow HD+</display-name>
+    <display-name lang="de">Arrow</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Arrow HD+">
@@ -287,7 +287,7 @@
     <category lang="de">Action</category>
   </programme>
   <channel id="DE: SERIEAX Ballers HD+">
-    <display-name lang="de">DE: SERIEAX Ballers HD+</display-name>
+    <display-name lang="de">Ballers</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Ballers HD+">
@@ -296,7 +296,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Blue Bloods HD+">
-    <display-name lang="de">DE: SERIEAX Blue Bloods HD+</display-name>
+    <display-name lang="de">Blue Bloods</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Blue Bloods HD+">
@@ -305,7 +305,7 @@
     <category lang="de">Krimi</category>
   </programme>
   <channel id="DE: SERIEAX Bull HD+">
-    <display-name lang="de">DE: SERIEAX Bull HD+</display-name>
+    <display-name lang="de">Bull</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Bull HD+">
@@ -314,7 +314,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Chicago Fire HD+">
-    <display-name lang="de">DE: SERIEAX Chicago Fire HD+</display-name>
+    <display-name lang="de">Chicago Fire</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Chicago Fire HD+">
@@ -323,7 +323,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Chicago MED HD+">
-    <display-name lang="de">DE: SERIEAX Chicago MED HD+</display-name>
+    <display-name lang="de">Chicago Med</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Chicago MED HD+">
@@ -332,7 +332,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Club der roten Bänder HD+">
-    <display-name lang="de">DE: SERIEAX Club der roten Bänder HD+</display-name>
+    <display-name lang="de">Club der roten Bänder</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Club der roten Bänder HD+">
@@ -341,7 +341,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Cobra Kai HD+">
-    <display-name lang="de">DE: SERIEAX Cobra Kai HD+</display-name>
+    <display-name lang="de">Cobra Kai</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Cobra Kai HD+">
@@ -350,7 +350,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Criminal Minds HD+">
-    <display-name lang="de">DE: SERIEAX Criminal Minds HD+</display-name>
+    <display-name lang="de">Criminal Minds</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Criminal Minds HD+">
@@ -359,7 +359,7 @@
     <category lang="de">Krimi</category>
   </programme>
   <channel id="DE: SERIEAX FBI HD+">
-    <display-name lang="de">DE: SERIEAX FBI HD+</display-name>
+    <display-name lang="de">FBI</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX FBI HD+">
@@ -368,7 +368,7 @@
     <category lang="de">Krimi</category>
   </programme>
   <channel id="DE: SERIEAX Fear the Walking Dead HD+">
-    <display-name lang="de">DE: SERIEAX Fear the Walking Dead HD+</display-name>
+    <display-name lang="de">Fear the Walking Dead</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Fear the Walking Dead HD+">
@@ -377,7 +377,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Full House HD+">
-    <display-name lang="de">DE: SERIEAX Full House HD+</display-name>
+    <display-name lang="de">Full House</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Full House HD+">
@@ -386,7 +386,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Gomorra HD+">
-    <display-name lang="de">DE: SERIEAX Gomorra HD+</display-name>
+    <display-name lang="de">Gomorra</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Gomorra HD+">
@@ -395,7 +395,7 @@
     <category lang="de">Krimi</category>
   </programme>
   <channel id="DE: SERIEAX Grimm HD+">
-    <display-name lang="de">DE: SERIEAX Grimm HD+</display-name>
+    <display-name lang="de">Grimm</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Grimm HD+">
@@ -404,7 +404,7 @@
     <category lang="de">Fantasy</category>
   </programme>
   <channel id="DE: SERIEAX Jerks HD+">
-    <display-name lang="de">DE: SERIEAX Jerks HD+</display-name>
+    <display-name lang="de">jerks.</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Jerks HD+">
@@ -413,7 +413,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Kevin can't Wait HD+">
-    <display-name lang="de">DE: SERIEAX Kevin can't Wait HD+</display-name>
+    <display-name lang="de">Kevin Can Wait</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Kevin can't Wait HD+">
@@ -422,7 +422,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Last Man Standing HD+">
-    <display-name lang="de">DE: SERIEAX Last Man Standing HD+</display-name>
+    <display-name lang="de">Last Man Standing</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Last Man Standing HD+">
@@ -431,7 +431,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Malcom Mittendrin HD+">
-    <display-name lang="de">DE: SERIEAX Malcom Mittendrin HD+</display-name>
+    <display-name lang="de">Malcolm mittendrin</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Malcom Mittendrin HD+">
@@ -440,7 +440,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Mr.Robot HD+">
-    <display-name lang="de">DE: SERIEAX Mr.Robot HD+</display-name>
+    <display-name lang="de">Mr. Robot</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Mr.Robot HD+">
@@ -449,7 +449,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Narcos HD+">
-    <display-name lang="de">DE: SERIEAX Narcos HD+</display-name>
+    <display-name lang="de">Narcos</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Narcos HD+">
@@ -458,7 +458,7 @@
     <category lang="de">Krimi</category>
   </programme>
   <channel id="DE: SERIEAX Navy CIS HD+">
-    <display-name lang="de">DE: SERIEAX Navy CIS HD+</display-name>
+    <display-name lang="de">Navy CIS</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Navy CIS HD+">
@@ -467,7 +467,7 @@
     <category lang="de">Krimi</category>
   </programme>
   <channel id="DE: SERIEAX Riverdale HD+">
-    <display-name lang="de">DE: SERIEAX Riverdale HD+</display-name>
+    <display-name lang="de">Riverdale</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Riverdale HD+">
@@ -476,7 +476,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX S.W.A.T HD+">
-    <display-name lang="de">DE: SERIEAX S.W.A.T HD+</display-name>
+    <display-name lang="de">S.W.A.T.</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX S.W.A.T HD+">
@@ -485,7 +485,7 @@
     <category lang="de">Action</category>
   </programme>
   <channel id="DE: SERIEAX SEAL Team HD+">
-    <display-name lang="de">DE: SERIEAX SEAL Team HD+</display-name>
+    <display-name lang="de">SEAL Team</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX SEAL Team HD+">
@@ -494,7 +494,7 @@
     <category lang="de">Action</category>
   </programme>
   <channel id="DE: SERIEAX Start Up HD+">
-    <display-name lang="de">DE: SERIEAX Start Up HD+</display-name>
+    <display-name lang="de">StartUp</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Start Up HD+">
@@ -503,7 +503,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Suits HD+">
-    <display-name lang="de">DE: SERIEAX Suits HD+</display-name>
+    <display-name lang="de">Suits</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Suits HD+">
@@ -512,7 +512,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Supernatural HD+">
-    <display-name lang="de">DE: SERIEAX Supernatural HD+</display-name>
+    <display-name lang="de">Supernatural</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Supernatural HD+">
@@ -521,7 +521,7 @@
     <category lang="de">Fantasy</category>
   </programme>
   <channel id="DE: SERIEAX The 100 HD+">
-    <display-name lang="de">DE: SERIEAX The 100 HD+</display-name>
+    <display-name lang="de">The 100</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The 100 HD+">
@@ -530,7 +530,7 @@
     <category lang="de">Science-Fiction</category>
   </programme>
   <channel id="DE: SERIEAX The Big Bang Theory HD+">
-    <display-name lang="de">DE: SERIEAX The Big Bang Theory HD+</display-name>
+    <display-name lang="de">The Big Bang Theory</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Big Bang Theory HD+">
@@ -539,7 +539,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX The Blacklist HD+">
-    <display-name lang="de">DE: SERIEAX The Blacklist HD+</display-name>
+    <display-name lang="de">The Blacklist</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Blacklist HD+">
@@ -548,7 +548,7 @@
     <category lang="de">Krimi</category>
   </programme>
   <channel id="DE: SERIEAX The Flash HD+">
-    <display-name lang="de">DE: SERIEAX The Flash HD+</display-name>
+    <display-name lang="de">The Flash</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Flash HD+">
@@ -557,7 +557,7 @@
     <category lang="de">Action</category>
   </programme>
   <channel id="DE: SERIEAX The Good Doctor HD+">
-    <display-name lang="de">DE: SERIEAX The Good Doctor HD+</display-name>
+    <display-name lang="de">The Good Doctor</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Good Doctor HD+">
@@ -566,7 +566,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX The Protectore HD+">
-    <display-name lang="de">DE: SERIEAX The Protectore HD+</display-name>
+    <display-name lang="de">The Protector</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Protectore HD+">
@@ -575,7 +575,7 @@
     <category lang="de">Fantasy</category>
   </programme>
   <channel id="DE: SERIEAX The Walking Dead HD+">
-    <display-name lang="de">DE: SERIEAX The Walking Dead HD+</display-name>
+    <display-name lang="de">The Walking Dead</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX The Walking Dead HD+">
@@ -584,7 +584,7 @@
     <category lang="de">Drama</category>
   </programme>
   <channel id="DE: SERIEAX Van Helsing HD+">
-    <display-name lang="de">DE: SERIEAX Van Helsing HD+</display-name>
+    <display-name lang="de">Van Helsing</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Van Helsing HD+">
@@ -593,7 +593,7 @@
     <category lang="de">Fantasy</category>
   </programme>
   <channel id="DE: SERIEAX Young Sheldon HD+">
-    <display-name lang="de">DE: SERIEAX Young Sheldon HD+</display-name>
+    <display-name lang="de">Young Sheldon</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Young Sheldon HD+">
@@ -602,7 +602,7 @@
     <category lang="de">Comedy</category>
   </programme>
   <channel id="DE: SERIEAX Z Nation HD+">
-    <display-name lang="de">DE: SERIEAX Z Nation HD+</display-name>
+    <display-name lang="de">Z Nation</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Z Nation HD+">
@@ -611,11 +611,11 @@
     <category lang="de">Action</category>
   </programme>
   <channel id="DE: SERIEAX Zoo HD+">
-    <display-name lang="de">DE: SERIEAX Zoo HD+</display-name>
+    <display-name lang="de">Zoo</display-name>
     <icon src="https://img.crazycdn.net/picons/de/serieax.png"/>
   </channel>
   <channel id="DE: MAX 007 HD DE">
-    <display-name lang="de">DE: MAX 007 HD DE</display-name>
+    <display-name lang="de">MAX 007</display-name>
   </channel>
   <programme start="20260712000000 +0200" stop="20270712000000 +0200" channel="DE: SERIEAX Zoo HD+">
     <title lang="de">Zoo</title>
